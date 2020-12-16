@@ -1,6 +1,7 @@
-# App con métodos de Criptografia simétrica y asimétrica
+## App con métodos de Criptografia simétrica y asimétrica
 
-Aplicación que encripta frases introducidas por el usuario
+Aplicación que encripta frases introducidas por el usuario. 
+El menú tiene las siguientes opciones:
 
 - Encriptar frase. Opcion 1
 - Mostrar frase encriptada. Opcion 2
