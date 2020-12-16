@@ -2,12 +2,12 @@
 
 Aplicación que encripta frases introducidas por el usuario
 
-Encriptar frase. Opcion 1
-Mostrar frase encriptada. Opcion 2
-Desencriptar frase. Opcion 3
-Encriptar coche. Opcion 4
-Mostrar coches. Opcion 5
-Salir del programa. Opcion salir
+- Encriptar frase. Opcion 1
+- Mostrar frase encriptada. Opcion 2
+- Desencriptar frase. Opcion 3
+- Encriptar coche. Opcion 4
+- Mostrar coches. Opcion 5
+- Salir del programa. Opcion salir
 
 Con la opción 1 el programa le pedirá al usuario una frase, la encriptará y la guardará en memoria.
 
@@ -21,5 +21,4 @@ Con la opción 4 el usuario meterá todos los atributos de un coche por teclado.
 
 Con la opción 5, los coches se mostrarán, pero primero habrá que desencriptar la información. Se utilizará un método de encriptación simétrico.
 
-
-Repetir los 2 anteriores requerimientos, pero con una encriptación asimétrica.
+Por último, se repitió todos los requerimientos anteriores con una encriptación asimétrica.
