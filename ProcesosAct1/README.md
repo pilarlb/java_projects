@@ -1,4 +1,4 @@
-#Programa ¿Es un número primo?
+## Programa ¿Es un número primo?
 
 Se piden 4 números por pantalla y se determina cuál de ellos es primo y cual no. 
 Por cada número se lanza un hilo de ejecucion (thread) en el programa, 
